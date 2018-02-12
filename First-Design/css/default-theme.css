@@ -1,0 +1,32 @@
+	.navbar h2,
+	.navbar .links ul li.active a,
+	.navbar .links ul li a:hover,
+	.navbar .links ul li a:focus,
+	.header .carousel-inner .item h2 span,
+	.Our-services .row  i.fa,
+	.Clints-say .carousel-inner h2,
+	.footer h2
+	  {
+	  	color: #1abc9c;
+	  }
+
+  	.navbar-toggle,
+	.products  ul li.active ,
+	.products   ul li:hover,
+	.products  ul li:focus,
+  	#scroll-top
+	{
+		background-color: #1abc9c;
+	}
+	.Our-Team .teamimg .overlay,
+	.products .productImg .overlay
+	{
+		background: rgba(26 , 188 , 156 ,0.8);
+	}
+
+	.navbar .links ul li.active a,
+	.navbar .links ul li a:hover,
+	.navbar .links ul li a:focus
+	{
+		border-bottom: 3px solid #1abc9c;
+	}
